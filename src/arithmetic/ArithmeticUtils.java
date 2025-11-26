@@ -1,4 +1,6 @@
-import model.Arithmetic;
+package arithmetic;
+
+import arithmetic.model.Arithmetic;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;

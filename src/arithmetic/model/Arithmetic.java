@@ -1,4 +1,4 @@
-package model;
+package arithmetic.model;
 
 public class Arithmetic {
 
